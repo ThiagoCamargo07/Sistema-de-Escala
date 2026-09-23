@@ -1,0 +1,24 @@
+
+[03/09/2026 16:14:01]
+Sábado (05/09/2026): Thiago, Isabelle, Guilherme
+Domingo (06/09/2026): Michael
+Folga: Riquelme
+----------------------------------------
+
+[03/09/2026 16:14:06]
+Sábado (12/09/2026): Isabelle, Guilherme, Riquelme
+Domingo (13/09/2026): Thiago
+Folga: Michael
+----------------------------------------
+
+[03/09/2026 16:14:06]
+Sábado (19/09/2026): Michael, Riquelme
+Domingo (20/09/2026): Isabelle, Guilherme
+Folga: Thiago
+----------------------------------------
+
+[03/09/2026 16:14:07]
+Sábado (26/09/2026): Thiago, Michael
+Domingo (27/09/2026): Riquelme
+Folga: Isabelle, Guilherme
+----------------------------------------
